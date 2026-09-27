@@ -26,7 +26,7 @@ Um sistema interativo em linha de comando desenvolvido para organização e cont
 
 ## Como Executar o Projeto
 
-1. Certifique-se de ter o **Python 3.x** instalado.
+1. Certifique-se de ter o **Python 3.14** instalado.
 2. Clone o repositório:
-   ```bash
-   git clone [https://github.com/vitintelles/fundamentos-python-Algoritmos.git](https://github.com/vitintelles/fundamentos-python-Algoritmos.git)
+````bash
+git clone https://github.com/vitintelles/fundamentos-python-Algoritmos.git
